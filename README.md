@@ -520,3 +520,4 @@ pipeline {
 
 NOTA: El comando envsubst permite sustituir en un fichero el valor de la variables de entorno ($VAR)
 test
+test
